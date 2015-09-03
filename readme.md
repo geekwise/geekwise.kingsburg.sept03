@@ -1,4 +1,4 @@
-##Geekwise Introduction to <HTML> and CSS
+##Geekwise Introduction to `<HTML>` and CSS
 ###Wednesday
 ###Date: 09-03-2015
 
